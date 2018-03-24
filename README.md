@@ -1,5 +1,5 @@
 # Web-Development.github.io
-Web Development projects using HTML,CSS,JS,.NET
+Web Development projects using HTML,CSS,JavaScript,.NET
 
 This repository contains a resume and blog page that I created using HTML5. 
 You can view the webpages:
